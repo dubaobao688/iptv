@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="移动线路",凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="移动线路",CCTV1
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227607/1.m3u8?HlsProfileId=
@@ -245,4 +245,5 @@ http://120.196.232.124:8088/000000001001PLTV/651/224/3221227940/1.m3u8?HlsProfil
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227944/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="未知" tvg-logo="https://live.fanmingming.cn/tv/未知.png" group-title="移动线路",未知
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227656/1.m3u8?HlsProfileId=
+
 
