@@ -5,8 +5,12 @@ http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="移动线路",CCTV1
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227607/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="移动线路",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="移动线路",CCTV2
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="移动线路",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="移动线路",CCTV3
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="移动线路",CCTV4
@@ -37,6 +41,8 @@ http://120.196.232.124:8088/000000001001PLTV/651/224/3221227560/1.m3u8?HlsProfil
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227562/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="移动线路",CCTV13
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227598/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="移动线路",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="移动线路",CCTV14
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227535/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="移动线路",CCTV14
