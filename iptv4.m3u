@@ -27,6 +27,8 @@ http://120.196.232.124:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfil
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="移动线路",CCTV5+
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227567/1.m3u8?HlsProfileId=
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="移动线路",CCTV5+
+http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="移动线路",CCTV6
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227606/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="移动线路",CCTV6
