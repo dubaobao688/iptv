@@ -63,6 +63,8 @@ http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 http://heilin.fun:8686/rtp/239.49.0.13:8096
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="移动线路",CCTV13
 http://heilin.fun:8686/rtp/239.49.1.13:6000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="移动线路",CCTV13
+http://dous.cc:4023/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="移动线路",CCTV14
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227535/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="移动线路",CCTV14
